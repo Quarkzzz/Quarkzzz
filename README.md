@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Quarkzzz
-- 👀 I’m interested in video game developement 
+- 👀 I’m interested in hacking
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on, idk
 - 📫 How to reach me, discord
